@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Azaruddin Askarali
 -  I’m interested in Machine learning and Deep learning
--  ![image]C:\Users\Lenovo\OneDrive\Pictures\New folder
 - 🌱 I’m currently learning Deep learning
 - 📫 How to reach me ...You can reach me through mail(azaruddinaskarali@gmail.com)
 
